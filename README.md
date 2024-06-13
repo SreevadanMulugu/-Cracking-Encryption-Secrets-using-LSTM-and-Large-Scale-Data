@@ -1,4 +1,4 @@
-# -Cracking-Encryption-Secrets-using-LSTM-and-Large-Scale-Data
+# Predicting-System-Tandomness-using-LSTM-and-Large-Scale-Data
 This is a Python code that implements an LSTM (Long Short-Term Memory) neural network model using popular libraries such as Numpy, Pandas, Scikit-learn, Keras, and TensorFlow.
 
 Here's a brief summary:
